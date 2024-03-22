@@ -4,7 +4,7 @@
 
 ### Installation
 1. Download and install the Dell IPMI tool.
-2. Download bot ipmi.bat and ipmi.ps1 files.
+2. Download the ipmi.bat and ipmi.ps1 file.
 3. Put both files into a folder.
 
 ### Configuration
